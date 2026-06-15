@@ -24,7 +24,7 @@ Follow these steps to clone and run the project locally in just a few seconds.
 
 ```bash
 git clone <github-repository-url>
-cd DockerProject
+cd docker-multicontainer-lab
 ```
 
 ### 2. Configure Environment Variables
